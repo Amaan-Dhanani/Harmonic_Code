@@ -20,5 +20,6 @@
 		<li>A child of the plains, Piaru has an inherent understanding and talent for the wild, reflecting his symbiotic relationship with the environment.</li>
 		<li>Piano serves as his primary weapon, with his positive, harmonious compositions acting as a direct force against evil frequencies.</li>
 		<li>Piaru's identity is rooted in the fusion of nature and music—his piano harmonies represent his soul's connection to the natural world, and together, they form his power to resist darkness.</li>
+		ertyu
 	</span>
 </Background>
