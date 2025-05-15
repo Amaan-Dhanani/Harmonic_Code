@@ -2,14 +2,14 @@
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Piaru from "$lib/images/Bassoonia.png"
+	import Piaru from "$lib/images/Clarineta.png"
 </script>
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="Bassoonia" src={Piaru}>
+	<img slot="image" width="500" height=""  alt="Clarineta" src={Piaru}>
 
-	<span class="text-[#BCBC79]" slot="heading">BASSOONIA</span>
+	<span class="text-[#BCBC79]" slot="heading">Clarineta</span>
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
