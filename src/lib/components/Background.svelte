@@ -4,16 +4,20 @@
 
 <div class="relative">
 	<p class="invisible">rrr</p>
-	<div class="rounded-t-[70px] bg-[#F8FAFE] ml-[50px] mr-[50px] pt-[45px] align-center mt-[80px]">
-		<img src={Logo} alt="" class="max-w-[150px] max-w-[80px] rounded-[20px] ml-[40px] border" />
-		<div class="flex justify-between items-center">
-			<div class="flex-1 font-balsamiq-sans text-[80px] font-bold leading-normal p-0 m-0">
+	<div class="align-center mt-[80px] mr-[50px] ml-[50px] rounded-t-[70px] bg-[#F8FAFE] pt-[45px]">
+		<img
+			src={Logo}
+			alt=""
+			class="ml-25 max-w-[80px] max-w-[150px] rounded-[40px] border-[3px] border-[#b89f5d] pl-[5px]"
+		/>
+		<div class="flex place-content-center items-center justify-center box-border px-25 gap-10">
+			<div class="font-balsamiq-sans m-0 flex-1 p-0 text-[80px] leading-normal font-bold">
 				<div><slot name="heading"></slot></div>
-				<div class="text-[#000] font-poppins text-[16px] font-normal leading-[31px]"><slot name="paragraph"></slot></div>
+				<div class="font-poppins text-[16px] leading-[31px] font-normal text-[#000]">
+					<slot name="paragraph"></slot>
+				</div>
 			</div>
-			<div class="flex-1">
-                <div><slot name="image"></slot></div>
-            </div>
-		  </div>
+			<div><slot name="image"></slot></div>
+		</div>
 	</div>
 </div>

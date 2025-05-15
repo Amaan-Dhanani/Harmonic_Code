@@ -4,6 +4,7 @@
 @theme {
 	--font-poppins: 'Poppins', sans-serif;
 	--font-balsamiq-sans: 'Balsamiq Sans', sans-serif;
+	--color-durple: #2e1065;
 }
 
 @layer base {
