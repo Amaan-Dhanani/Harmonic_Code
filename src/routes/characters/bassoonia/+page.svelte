@@ -13,7 +13,7 @@
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
-		<li>Her name is a fusion of "harmony" and "bassoon".</li>
+		<li>Her name is a fusion of "harmony" and "bassoon."</li>
 		<li>Tries to fight against Piaru via evil concerto melodies, typically in minor key.</li>
 		<li>Her family's villainous and arrogant past can be seen through her playing.</li>
 		<li>Sometimes she can mask her evilness through starting her minor key concerto with sereneness (defense tactic.)</li>
