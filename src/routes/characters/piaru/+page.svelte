@@ -9,7 +9,7 @@
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
 	<img slot="image" width="500" height=""  alt="Piaru" src={Piaru}>
 
-	<span class="text-[#BCBC79]" slot="heading">PIARU</span>
+	<span class="text-[#BCBC79]" slot="heading">Piaru</span>
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">

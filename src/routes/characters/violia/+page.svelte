@@ -10,7 +10,7 @@
 	<img slot="image" width="400" height=""  alt="Violia" src={Violia}>
 
 	<!--      ADJUST        ↓                      ↓           -->
-	<span class="text-durple " slot="heading">VIOLIA</span>
+	<span class="text-durple " slot="heading">Violia</span>
 
 	<span class="text-[#383838]" slot="paragraph">
 		<li>Derived from the fusion of Violia, a string instrument symbolizing discord, and Euphoria/Anhedonia, representing the contrast between intense pleasure and a lack of it, embodying a twisted emotional state.</li>

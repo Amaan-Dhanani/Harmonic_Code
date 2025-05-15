@@ -2,18 +2,18 @@
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Piaru from "$lib/images/Clarineta.png"
+	import Clarineta from "$lib/images/Clarineta.png"
 </script>
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="Clarineta" src={Piaru}>
+	<img slot="image" width="500" height=""  alt="Clarineta" src={Clarineta}>
 
 	<span class="text-[#BCBC79]" slot="heading">Clarineta</span>
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
-		<li>Her name is a fusion of "harmony" and "bassoon."</li>
+		<li>Her name is a fusion of "clarinet" and "bassoon."</li>
 		<li>Tries to fight against Piaru via evil concerto melodies, typically in minor key.</li>
 		<li>Her family's villainous and arrogant past can be seen through her playing.</li>
 		<li>Sometimes she can mask her evilness through starting her minor key concerto with sereneness (defense tactic.)</li>
