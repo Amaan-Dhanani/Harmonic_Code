@@ -1,0 +1,29 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  <body>
+  <div class="p-4">
+      <div class="grid sm:grid-cols-2 items-start gap-12 p-8 mx-auto max-w-4xl bg-white [box-shadow:0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-md">
+        <div>
+          <h1 class="text-slate-900 text-3xl font-semibold">Let's Talk</h1>
+          <p class="text-sm text-slate-500 mt-4 leading-relaxed">RNADOM MESSGAE</p>
+          <img src="Piaru2.png">
+        </div>
+
+        <form class="space-y-4">
+          <input type='text' placeholder='Name'
+            class="w-full text-slate-900 rounded-md py-2.5 px-4 border border-gray-300 text-sm outline-0 focus:border-blue-500" />
+          <input type='email' placeholder='Email'
+            class="w-full text-slate-900 rounded-md py-2.5 px-4 border border-gray-300 text-sm outline-0 focus:border-blue-500" />
+          <input type='text' placeholder='Subject'
+            class="w-full text-slate-900 rounded-md py-2.5 px-4 border border-gray-300 text-sm outline-0 focus:border-blue-500" />
+          <textarea placeholder='Message' rows="6"
+            class="w-full text-slate-900 rounded-md px-4 border border-gray-300 text-sm pt-2.5 outline-0 focus:border-blue-500"></textarea>
+          <button type='button'
+            class="text-white bg-blue-500 hover:bg-blue-600 rounded-md text-[15px] font-medium px-4 py-2 w-full cursor-pointer !mt-6">Send</button>
+        </form>
+      </div>
+    </div>
+</body>
