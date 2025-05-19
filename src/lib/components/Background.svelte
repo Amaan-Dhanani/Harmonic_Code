@@ -1,5 +1,11 @@
 <script>
 	import Logo from '$lib/images/Logo.png';
+	import { onMount } from 'svelte';
+
+  onMount(() => {
+    const name_sup = document.querySelector('.heading')?.textContent || '';
+    localStorage.setItem('name_sup', name_sup);
+  });
 </script>
 
 <div class="relative">
@@ -12,7 +18,7 @@
 		/>
 		<div class="flex place-content-center items-center justify-center box-border px-25 gap-10">
 			<div class="font-balsamiq-sans m-0 flex-1 p-0 text-[80px] leading-normal font-bold">
-				<div><slot name="heading"></slot></div>
+				<div class="heading"><slot name="heading"></slot></div>
 				<div class="font-poppins text-[16px] leading-[31px] font-normal text-[#000]">
 					<slot name="paragraph"></slot>
 				</div>
