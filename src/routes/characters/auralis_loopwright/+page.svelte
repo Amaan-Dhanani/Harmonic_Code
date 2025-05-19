@@ -2,14 +2,14 @@
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Clarineta from "$lib/images/Clarineta.png"
+	import Auralis_Loopwright from "$lib/images/Auralis_Loopwright.png"
 </script>
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="Clarineta" src={Clarineta}>
+	<img slot="image" width="500" height=""  alt="Auralis Loopwright" src={auralis_loopwright}>
 
-	<span class="text-[#BCBC79]" slot="heading">Clarineta</span>
+	<span class="text-[#BCBC79]" slot="heading">Auralis Loopwright</span>
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">

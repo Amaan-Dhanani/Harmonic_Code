@@ -13,7 +13,7 @@
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
-		<li>Born in Fermontipiano, trained by piano grand masters on their grand pianos, he uses his memory to play every piece he's learned. </li>
+		<li>Born in Fermontipiano, he is 72 years old, trained by piano grand masters on their grand pianos, he uses his memory to play every piece he's learned. </li>
 		<li>Ferma</li>
 		<li>Raised in the plains of Pianotopia, where he cultivated a deep connection with nature and the land.</li>
 		<li>Piaru sustains himself with fresh vegetables and organically raised meat, emphasizing a natural and wholesome lifestyle.</li>
