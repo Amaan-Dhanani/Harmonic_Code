@@ -1,5 +1,5 @@
 <div>
 <script>
-    location.replace('form.html')
+    location.replace('form.html');
 </script>
 </div>
