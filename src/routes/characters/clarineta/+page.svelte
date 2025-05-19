@@ -13,11 +13,10 @@
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
-		<li>Her name is a fusion of "clarinet" and "bassoon."</li>
-		<li>Tries to fight against Piaru via evil concerto melodies, typically in minor key.</li>
-		<li>Her family's villainous and arrogant past can be seen through her playing.</li>
-		<li>Sometimes she can mask her evilness through starting her minor key concerto with sereneness (defense tactic.)</li>
-		<li>Born with a chord that is divergent from her parents, she has a weakness: she is not purely evil, thus Piaru's music can effect her.</li>
-		<li>She's easily stunned by 1+ min major key passages in music, making her weak to Piaru and Ferma.</li>
+		<li>Clarineta is 24 years old.</li>
+		<li>Her name is a fusion of "clarinet" and "Elsa."</li>
+		<li>Her melodies allow for healing effects when Piaru is within 1 mile.</li>
+		<li>Her stamina is incredible, but her projection of volume is minimal.</li>
+		<li>When she is paired strategically with Piaru, they can play duets together.</li>
 	</span>
 </Background>

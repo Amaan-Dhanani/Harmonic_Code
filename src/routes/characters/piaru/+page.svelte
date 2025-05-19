@@ -9,10 +9,13 @@
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
 	<img slot="image" width="500" height=""  alt="Piaru" src={Piaru}>
 
-	<span class="text-[#BCBC79]" slot="heading">Piaru</span>
+	<span class="text-[#d29d72]" slot="heading">Piaru</span>
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
+		<li>Piaru is 17 years old.</li>
+		<li>His signature attack is the Nocturne Strike (uses his daylight energy for this.)</li>
+		<li>He has to fight against Violia (the villian of Pianotopia.)</li>
 		<li>A fusion of Haru (Japanese for "Spring") and Piano, symbolizing both nature and music.</li>
 		<li>Piaru's music produces harmonious frequencies that counteract the malevolent waves emitted by enemies, particularly Viola.</li>
 		<li>Raised in the plains of Pianotopia, where he cultivated a deep connection with nature and the land.</li>

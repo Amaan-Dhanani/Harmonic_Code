@@ -13,6 +13,9 @@
 	<span class="text-durple " slot="heading">Violia</span>
 
 	<span class="text-[#383838]" slot="paragraph">
+		<li>Violia is 28 years old.</li>
+		<li>Her weakness consists of prolonged engagements because her stamina is low. </li>
+		<li>She plays rapid passages in 16th notes which makes her exhaustion rate high.</li>
 		<li>Derived from the fusion of Violia, a string instrument symbolizing discord, and Euphoria/Anhedonia, representing the contrast between intense pleasure and a lack of it, embodying a twisted emotional state.</li>
 		<li>Violia can paralyze her victims by emitting piercing, discordant screeches from her violin.</li>
 		<li>Piaru’s music is her greatest vulnerability. The positive, harmonious frequencies he plays can weaken Violia’s will, disrupting her chaotic powers.</li>
