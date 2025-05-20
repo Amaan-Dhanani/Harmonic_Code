@@ -1,13 +1,13 @@
-<script>
+<script lang="ts">
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Piaru from "$lib/images/rhythm9.png"
+	import Rhythm9 from "$lib/images/Rhythm-9.png"
 </script>
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="rhythm9" src={Piaru}>
+	<img slot="image" width="500" height=""  alt="rhythm9" src={Rhythm9}>
 
 	<span class="text-[#d29d72]" slot="heading">Rhythm-9</span>
 

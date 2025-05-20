@@ -2,7 +2,7 @@
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Piaru from "$lib/images/Bassoonia.png"
+	import Bassoonia from "$lib/images/Bassoonia.png"
 </script>
 
 <Background>

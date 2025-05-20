@@ -7,7 +7,7 @@
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="Auralis Loopwright" src={auralis_loopwright}>
+	<img slot="image" width="500" height=""  alt="Auralis Loopwright" src={Auralis_Loopwright}>
 
 	<span class="text-[#BCBC79]" slot="heading">Auralis Loopwright</span>
 

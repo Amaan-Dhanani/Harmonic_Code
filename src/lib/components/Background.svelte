@@ -1,5 +1,6 @@
 <script>
 	import Logo from '$lib/images/Logo.png';
+	import Nav from './Nav.svelte';
 	import { onMount } from 'svelte';
 
   onMount(() => {
@@ -11,6 +12,7 @@
 <div class="relative">
 	<p class="invisible">rrr</p>
 	<div class="align-center mt-[80px] mr-[50px] ml-[50px] rounded-t-[70px] bg-[#F8FAFE] pt-[45px]">
+		<Nav/>
 		<img
 			src={Logo}
 			alt=""
