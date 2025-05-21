@@ -1,8 +1,4 @@
-<!-- svelte-ignore css_unused_selector -->
-<!-- svelte-ignore css_unused_selector -->
-<!-- svelte-ignore script_unknown_attribute -->
-<!-- svelte-ignore script_unknown_attribute -->
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
 
 <style>
   .dm-matter-elem, .dm-matter-elem-circle, .dm-matter-elem-pill {
@@ -12,10 +8,7 @@
   }
 </style>
 
-
-<div class="matter-box" style="position: relative; width: 100%; height: 500px;">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
-    <script>
+<script>
 document.addEventListener("DOMContentLoaded", function () {
   var Engine = Matter.Engine,
       Render = Matter.Render,
@@ -175,6 +168,7 @@ document.addEventListener("DOMContentLoaded", function () {
   observer.observe(matterBox);
 });
 </script>
+<div class="matter-box" style="position: relative; width: 100%; height: 500px;">
   <div class="dm-matter-elem-circle" style="width: 60px; height: 60px; background: green; border-radius: 50%;  background-image: url('https://res.cloudinary.com/dshelchrn/image/upload/v1747840696/unnamed_atnywx.png'); background-size: 60px;"></div>
   <div class="dm-matter-elem-circle" style="width: 60px; height: 60px; background: green; border-radius: 50%;  background-image: url('https://res.cloudinary.com/dshelchrn/image/upload/v1747840696/unnamed_atnywx.png'); background-size: 60px;"></div>
   <div class="dm-matter-elem-circle" style="width: 60px; height: 60px; background: green; border-radius: 50%;  background-image: url('https://res.cloudinary.com/dshelchrn/image/upload/v1747840696/unnamed_atnywx.png'); background-size: 60px;"></div>

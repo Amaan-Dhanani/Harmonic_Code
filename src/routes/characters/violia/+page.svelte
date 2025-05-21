@@ -3,11 +3,23 @@
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
 	import Violia from "$lib/images/Violia.png";
+import { onMount } from 'svelte';
+	import { animateImage } from '@lib/js/fade.js'; // Import the animation function
+
+	// @ts-ignore
+	let image; // Reference for the image element
+
+	// Use onMount to trigger the animation when the component is mounted
+	onMount(() => {
+		// @ts-ignore
+		animateImage(image);
+	});
 </script>
 
 <Background>
-	<!--      ADJUST        ↓         ↓         ↓             ↓-->
-	<img slot="image" width="400" height=""  alt="Violia" src={Violia}>
+	<!--      ADJUST        ↓         ↓         ↓           ↓-->
+	<img slot="image" width="500" height="" alt="Violia" src={Violia} bind:this={image} />
+
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-durple" slot="heading">Violia</span>

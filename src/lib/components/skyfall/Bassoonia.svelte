@@ -1,9 +1,3 @@
-<!-- svelte-ignore css_unused_selector -->
-<!-- svelte-ignore css_unused_selector -->
-<!-- svelte-ignore script_unknown_attribute -->
-<!-- svelte-ignore script_unknown_attribute -->
-
-
 <style>
   .dm-matter-elem, .dm-matter-elem-circle, .dm-matter-elem-pill {
     pointer-events: none;
@@ -13,7 +7,7 @@
 </style>
 
 
-<div class="matter-box" style="position: relative; width: 100%; height: 500px;">
+<div class="matter-box" style="position: relative; width: 100%; height: 500px; z-index: 5;">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
     <script>
 document.addEventListener("DOMContentLoaded", function () {

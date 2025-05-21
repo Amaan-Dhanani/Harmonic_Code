@@ -1,13 +1,25 @@
 <script>
+// @ts-nocheck
+
 	import Background from "@lib/components/Background.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Bassoonia from "$lib/images/Bassoonia.png"
+  	import { onMount } from 'svelte';
+	import Bassoonia from "$lib/images/Bassoonia.png";
+  import Bassoonia2 from "$lib/components/skyfall/Bassoonia.svelte";
+  import { animateImage } from "@lib/js/fade.js"; // Import the animation function
+  let image; // Reference for the image element
+
+  // Use onMount to trigger the animation when the component is mounted
+  onMount(() => {
+    // @ts-ignore
+    animateImage(image);
+});
 </script>
 
 <Background>
 	<!--      ADJUST        ↓         ↓         ↓           ↓-->
-	<img slot="image" width="500" height=""  alt="Bassoonia" src={Bassoonia}>
+	<img slot="image" width="500" height=""  alt="Bassoonia" src={Bassoonia} bind:this={image}>
 
 	<span class="text-[#d29d72]" slot="heading">Bassoonia</span>
 
