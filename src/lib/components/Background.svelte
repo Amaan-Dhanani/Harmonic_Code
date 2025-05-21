@@ -4,7 +4,7 @@
 	import Nav3 from './Nav3.svelte';
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
-	import Bassoonia2 from './skyfall/Bassoonia.svelte';
+	
 
 	onMount(() => {
 		const name_sup = document.querySelector('.heading')?.textContent || '';

@@ -32,7 +32,7 @@
 
 <nav>
 <div class="font-poppins flex w-full flex-wrap items-center justify-center gap-x-12 py-3.5 text-center text-lg text-sm leading-[normal]">
-    <img class="rounded-[30px] border-[3px] border-[#b89f5d] w-30" src={Logo} alt="Logo">
+    <img class="rounded-[30px] border-[3px] border-[#b89f5d] w-30" src={Logo} alt="Logo" >
 	{#each characters as char}
 		{#if $name === char.key}
 			<div class="flex flex-col items-center">
