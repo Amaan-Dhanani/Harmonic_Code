@@ -10,7 +10,7 @@
 	<img slot="image" width="400" height=""  alt="Violia" src={Violia}>
 
 	<!--      ADJUST        ↓                      ↓           -->
-	<span class="text-durple " slot="heading">Violia</span>
+	<span class="text-durple" slot="heading">Violia</span>
 
 	<span class="text-[#383838]" slot="paragraph">
 		<li>Violia is 28 years old.</li>

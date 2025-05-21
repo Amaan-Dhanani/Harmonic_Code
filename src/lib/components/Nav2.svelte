@@ -1,6 +1,7 @@
 <script>
 	import { goto } from '$app/navigation';
 	import { writable } from 'svelte/store';
+    import Logo from "$lib/images/Logo.png";
 
 	const name = writable('');
 
@@ -8,24 +9,20 @@
 	import { onMount } from 'svelte';
 	onMount(() => {
 		if (typeof window !== 'undefined') {
-			name.set(localStorage.getItem('name_sup') || '');
+			name.set(localStorage.getItem('page_sup') || '');
 		}
 	});
 
 	const characters = [
-		{ key: 'Piaru', label: 'Piaru', href: '/characters/piaru' },
-		{ key: 'Auralis Loopwright', label: 'Auralis Loopwright', href: '/characters/auralis_loopwright' },
-		{ key: 'Rhythm-9', label: 'Rhythm - 9', href: '/characters/rhythm9' },
-		{ key: 'Ferma', label: 'Voxwell Ferma', href: '/characters/ferma' },
-		{ key: 'Clarineta', label: 'Clarineta', href: '/characters/clarineta' },
-		{ key: 'Violia', label: 'Violia', href: '/characters/violia' },
-		{ key: 'Bassoonia', label: 'Bassoonia', href: '/characters/bassoonia' }
+		{ key: 'Home/Characters', label: 'Home/Characters', href: '/' },
+		{ key: 'Contact Us', label: 'Contact Us', href: '/form' },
+		{ key: 'Credits/Sources', label: 'Credits/Sources', href: '/credits' },
 	];
 
 	// @ts-ignore
 	function selectCharacter(char) {
 		if (typeof window !== 'undefined') {
-			localStorage.setItem('name_sup', char.key);
+			localStorage.setItem('page_sup', char.key);
 			name.set(char.key);
 			goto(char.href); // client-side navigation
 		}
@@ -35,6 +32,7 @@
 
 <nav>
 <div class="font-poppins flex w-full flex-wrap items-center justify-center gap-x-12 py-3.5 text-center text-lg text-sm leading-[normal]">
+    <img class="rounded-[30px] border-[3px] border-[#b89f5d] w-30" src={Logo} alt="Logo">
 	{#each characters as char}
 		{#if $name === char.key}
 			<div class="flex flex-col items-center">
