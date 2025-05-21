@@ -1,6 +1,7 @@
 <script>
 	import Logo from '$lib/images/Logo.png';
 	import Nav from './Nav.svelte';
+	import Nav3 from './Nav3.svelte';
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
 
@@ -9,10 +10,10 @@
 		localStorage.setItem('name_sup', name_sup);
 	});
 </script>
-
 <div class="relative">
 	<p class="invisible">rrr</p>
 	<div class="align-center mt-[80px] mr-[50px] ml-[50px] rounded-t-[70px] bg-[#F8FAFE] pt-[45px]">
+				<Nav3 />
 		<Nav />
 		<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 		<!-- svelte-ignore a11y_click_events_have_key_events -->

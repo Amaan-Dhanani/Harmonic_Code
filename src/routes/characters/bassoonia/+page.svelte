@@ -14,12 +14,12 @@
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
 		<ul>
-  <li><strong>Name:</strong> Bassoonia</li>
-  <li><strong>Age:</strong> 33</li>
-  <li><strong>Role:</strong> Antagonist</li>
-  <li><strong>Primary Weapon:</strong> Bassoon</li>
-  <li><strong>Signature Technique:</strong> Subsonic Collapse — unleashes deep-frequency tremors that destabilize tonal infrastructure and warp the harmonic fabric of battlefields.</li>
-  <li><strong>Strengths:</strong>
+  <li><strong>Name - </strong> Bassoonia</li>
+  <li><strong>Age - </strong> 33</li>
+  <li><strong>Role - </strong> Antagonist</li>
+  <li><strong>Primary Weapon - </strong> Bassoon</li>
+  <li><strong>Signature Technique - </strong> Subsonic Collapse — unleashes deep-frequency tremors that destabilize tonal infrastructure and warp the harmonic fabric of battlefields.</li>
+  <li><strong>Strengths - </strong>
     <ul>
       <li>Excels at suppressing high-pitch resonance</li>
       <li>Generates powerful low-end sonic disruptions</li>
