@@ -5,7 +5,7 @@
 	import Section from "@lib/components/Section.svelte";
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
-	import Violia from "$lib/images/Violia.png";
+	import Violia from "$lib/images/cards/Violia.png";
 </script>
 
 <Background>
