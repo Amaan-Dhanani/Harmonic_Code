@@ -42,7 +42,7 @@
 			symbiotic relationship with the environment.
 		</li>
 		<li>
-			Ferma's identity is rooted in the fusion of nature and music—his piano harmonies represent his
+			Ferma's identity is rooted in the fusion of nature and music - his piano harmonies represent his
 			soul's connection to the natural world.
 		</li>
 	</span>

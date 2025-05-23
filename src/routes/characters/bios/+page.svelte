@@ -57,7 +57,7 @@
 		soundscapes can calm allies, confuse enemies, or give a burst of energy when needed. Together,
 		their music forms a powerful harmony against the darkness that threatens their land. Auralis is
 		practical and grounded, a bit of a perfectionist, always refining her craft. She doesn’t believe
-		in grand destinies, but she knows her passion for music has real power—and she’s determined to
+		in grand destinies, but she knows her passion for music has real power - and she’s determined to
 		use it to help protect their home.
 	</span>
 </Section>
@@ -91,7 +91,7 @@
 	<span class="text-durple text-[24px]" slot="heading">Conclusion</span>
 	<span class="text-[#383838]" slot="paragraph">
 		Through their combined efforts, Piaru, Auralis Loopwright, Rhythm 9, and Voxwell Ferma were able
-		to defeat Violia and Bassoonia. Each of them brought something vital to the battle—Piaru’s
+		to defeat Violia and Bassoonia. Each of them brought something vital to the battle-Piaru’s
 		harmonies, Auralis’s healing loops, Rhythm 9’s tempo manipulation, and Voxwell’s voice control.
 		Together, their music overwhelmed the dissonance of their enemies and restored balance to
 		Pianotopia.
