@@ -24,8 +24,7 @@ import { animateImage } from "@lib/js/fade.js"; // Import the animation function
 
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
-<li><strong>Name - </strong> Rhythm-9</li>
-<li><strong>Role - </strong> Protagonist</li>
+<li><strong>Role - </strong> Hero</li>
 <li><strong>Chronological Age -</strong> Forty-two cycles since creation</li>
 <li><strong>Programmed Purpose - </strong> Originally designed as a military metronome drone</li>
 <li><strong>Reprogrammed By - </strong> Piaru, a young prodigy</li>

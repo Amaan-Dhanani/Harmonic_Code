@@ -31,8 +31,15 @@
 
 
 <nav>
-<div class="font-poppins flex w-full flex-wrap items-center justify-center gap-x-12 py-3.5 text-center text-lg text-sm leading-[normal]">
-    <img class="rounded-[30px] border-[3px] border-[#b89f5d] w-30" src={Logo} alt="Logo" >
+<div class="bg-white font-poppins flex w-full flex-wrap items-center justify-center gap-x-12 py-3.5 text-center text-lg text-sm leading-[normal]">
+    <!-- svelte-ignore a11y_click_events_have_key_events -->
+    <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
+    <img 
+	 src={Logo}
+	  alt=""
+	  on:click={() => goto('/')} 
+	  class="rounded-[30px] border-[3px] border-[#b89f5d] w-30"
+	  />
 	{#each characters as char}
 		{#if $name === char.key}
 			<div class="flex flex-col items-center">

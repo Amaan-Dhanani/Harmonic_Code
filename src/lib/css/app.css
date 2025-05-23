@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 
 
+.link { color: blue; text-decoration: underline;}
+
 @theme {
 	--font-poppins: 'Poppins', sans-serif;
 	--font-balsamiq-sans: 'Balsamiq Sans', sans-serif;
@@ -14,3 +16,4 @@
 		font-family: 'Poppins', sans-serif;
 	}
 }
+

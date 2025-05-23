@@ -11,7 +11,7 @@
 		localStorage.setItem('name_sup', name_sup);
 	});
 </script>
-<div class="relative">
+<div class="relative bg-black">
 	<p class="invisible">rrr</p>
 	<div class="align-center mt-[80px] mr-[50px] ml-[50px] rounded-t-[70px] bg-[#F8FAFE] pt-[45px]">
 				<Nav3 />
@@ -21,7 +21,7 @@
 		<img
 			src={Logo}
 			alt=""
-			on:click={() => goto('/')}
+			onclick={() => goto('/')}
 			class="ml-25 max-w-[150px] rounded-[40px] border-[3px] border-[#b89f5d] pl-[5px]"
 		/>
 		<div class="box-border flex place-content-center items-center justify-center gap-10 px-25">

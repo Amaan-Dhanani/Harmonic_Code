@@ -10,8 +10,8 @@
 
 <Nav2/>
 
-<div class="px-6 py-10 max-w-4xl mx-auto">
-    <h1 class="text-4xl font-bold mb-6 text-center text-indigo-700">Welcome to the Harmonic Code!</h1>
+<div class="py-10 px-40 mx-auto bg-white">
+    <h1 class="text-4xl font-bold mb-6 text-center text-durple">Welcome to the Harmonic Code!</h1>
     
     <p class="text-lg text-gray-700 mb-10 leading-relaxed">
         The Harmonic Code are a series of characters that are in Pianotopia, which is a place far, far, away.
@@ -22,6 +22,6 @@
         our superheroes on how to improve their personality!
     </p>
 </div>
-<div class="bg-white shadow-lg rounded-2xl p-6 border border-gray-200 w-300 mx-auto">
-        <CharSelect />
+<div class="bg-white justify-center items-center flex  w-full flex-row shadow-lg p-6 border border-gray-200 w-300 px-auto">
+        <CharSelect/>
     </div>
