@@ -16,6 +16,7 @@
 	const characters = [
 		{ key: 'Home/Characters', label: 'Home/Characters', href: '/' },
 		{ key: 'Contact Us', label: 'Contact Us', href: '/form' },
+		{ key: 'The Story of the Harmonic Code!', label: 'The Story of the Harmonic Code!', href: '/characters/bios' },
 		{ key: 'Credits/Sources', label: 'Credits/Sources', href: '/credits' },
 	];
 

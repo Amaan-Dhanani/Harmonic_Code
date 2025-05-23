@@ -38,6 +38,15 @@
     </span>
 </Section>
 
+
+<Section>
+    <span slot="heading" class="text-[red]">Wireframe/Flowchart</span>
+    <span slot="paragraph">
+      <!-- svelte-ignore a11y_missing_attribute -->
+      <iframe class="w-full h-250" src="wireframe.html"></iframe>
+    </span>
+</Section>
+
 <Section>
     <br><br>
     <span slot="heading" class="text-[32px]">Developer Team</span>
@@ -46,6 +55,13 @@
 <Section>
     <span slot="heading" class="text-[red]">Amaan Dhanani</span>
     <span slot="paragraph">
-        tex here
+        I helped establish storyboard ideas, and contributed 1/2 to the storyline. I contributed to around 60-70% of the svelte pages. I helped to set up the CSS with having only 15 lines of real CSS. 
+    </span>
+</Section>
+
+<Section>
+    <span slot="heading" class="text-[red]">Haru Mikawa</span>
+    <span slot="paragraph">
+       I contributed to the majority of the slides/wireframe layout. I also helped on the code, as well as 1/2 of the story ideas. I contributed 100% on the characters. 
     </span>
 </Section>

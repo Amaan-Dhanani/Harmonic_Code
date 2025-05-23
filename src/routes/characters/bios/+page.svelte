@@ -6,6 +6,7 @@
 	//PUT CHARACTER NAME
 	//       ↓                       ↓
 	import Violia from "$lib/images/cards/Violia.png";
+	
 </script>
 
 <Background>
@@ -35,9 +36,35 @@
 	</Section>
 
 	<Section>
+	<span class="text-durple text-[24px]" slot="heading">Auralis Loopwright</span>
+	<span class="text-[#383838]" slot="paragraph">
+		Auralis Loopwright grew up surrounded by music, much like Piaru. From a young age, she was fascinated by how sounds layered together and how a simple beat could grow into something much bigger. She spent hours experimenting with old instruments and learning to loop sounds, creating rhythms that were unique and hard to replicate.
+
+Unlike some gifted prodigies, she’s just someone who loves trying new things and isn’t afraid to keep working until it sounds right. Over time, she developed her own style by blending natural sounds with electronic beats, making music that feels alive and connected to the world around her.
+
+In Pianotopia, where Piaru uses his piano harmonies to fight against evil, Auralis uses her looping skills to support him and others. Her soundscapes can calm allies, confuse enemies, or give a burst of energy when needed. Together, their music forms a powerful harmony against the darkness that threatens their land.
+
+Auralis is practical and grounded, a bit of a perfectionist, always refining her craft. She doesn’t believe in grand destinies, but she knows her passion for music has real power—and she’s determined to use it to help protect their home.
+
+
+	</span>
+	</Section>
+
+	<Section>
 	<span class="text-durple text-[24px]" slot="heading">Piaru Takes It Up A Notch</span>
 	<span class="text-[#383838]" slot="paragraph">
-		Whenever the Harmonic Accord for Pianotopia, many of the locals started to hate their music because of its horrible sounds. 
+		Whenever the Harmonic Accord for Pianotopia, many of the locals started to hate their music because of its horrible sounds. The creation of Rhythm-9 was created through Piaru's father being an engineer - they both used their musical and conceptual knowledge into creating their product.
+	</span>
+	</Section>
+
+	<Section>
+	<span class="text-durple text-[24px]" slot="heading">Ferma The Peacemaker</span>
+	<span class="text-[#383838]" slot="paragraph">
+		Ferma was known around the world as the Peacemaker of Music. He wasn’t just a leader, he was the one people trusted to keep things calm and fair in the world of sound. For years, he settled disputes between sound groups and made sure no one used dangerous audio tech to cause harm.
+
+To Ferma, music was meant to bring people together, not tear them apart. He didn’t believe in fighting unless there was no other choice. Most of the time, he kept the peace by talking things through and using his deep knowledge of how sound works.
+
+But Rhythm-9 was something else. It was powerful, unpredictable, and risky. When Ferma found out that Piaru had activated it, he knew it couldn’t be ignored. He didn’t want a fight but he couldn’t sit back and do nothing. He had to step in and not to shut Piaru down completely, but to make sure the damage didn’t spread.
 	</span>
 	</Section>
 

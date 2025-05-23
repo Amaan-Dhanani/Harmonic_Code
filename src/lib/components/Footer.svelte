@@ -12,7 +12,10 @@
                     <a href="/form" class="hover:underline me-4 md:me-6">Contact Us</a>
                 </li>
                 <li>
-                    <a href="#" class="hover:underline me-4 md:me-6">Credits/Sources</a>
+                    <a href="/characters/bios" class="hover:underline me-4 md:me-6">The Story of the Harmonic Code!</a>
+                </li>
+                <li>
+                    <a href="/credits" class="hover:underline me-4 md:me-6">Credits/Sources</a>
                 </li>
             </ul>
             200 W Piano St.<br>

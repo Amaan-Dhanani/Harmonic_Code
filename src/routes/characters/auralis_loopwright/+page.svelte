@@ -25,11 +25,14 @@
 	<!--      ADJUST        ↓                      ↓           -->
 	<span class="text-[#383838]" slot="paragraph">
 		<li>Auralis Loopwright is 38 years old</li>
-		<li>
-			Auralis creates hymns that are in 7/8 time, creating hallucinatory effects for her enemies.
-		</li>
-		<li>Her melodies allow for healing effects when Piaru is within 1 mile.</li>
-		<li>Her stamina is incredible, but her projection of volume is minimal.</li>
-		<li>When she is paired strategically with Piaru, they can play duets together.</li>
+<li>Auralis creates hymns that are in 7/8 time, creating hallucinatory effects for her enemies.</li>
+<li>Her melodies allow for healing effects when Piaru is within 1 mile.</li>
+<li>Her stamina is incredible, but her projection of volume is minimal.</li>
+<li>When she is paired strategically with Piaru, they can play duets together.</li>
+<li>Her looping skills let her layer multiple harmonies, confusing opponents in battle.</li>
+<li>Auralis prefers natural instruments but enhances them with subtle electronic effects.</li>
+<li>She uses rhythmic pulses to regulate the energy flow in Pianotopia’s plains.</li>
+<li>Despite her quiet voice, her music carries strong emotional influence over allies.</li>
+<li>Her connection with Piaru strengthens the natural balance between music and nature.</li>
 	</span>
 </Background>
