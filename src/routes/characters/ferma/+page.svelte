@@ -34,7 +34,7 @@
 			land.
 		</li>
 		<li>
-			Just like Piaru, Verma sustains himself with fresh vegetables and organically raised meat,
+			Just like Piaru, Ferma sustains himself with fresh vegetables and organically raised meat,
 			emphasizing a natural and wholesome lifestyle.
 		</li>
 		<li>

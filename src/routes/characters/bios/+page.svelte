@@ -68,6 +68,13 @@ But Rhythm-9 was something else. It was powerful, unpredictable, and risky. When
 	</span>
 	</Section>
 
+	<Section>
+	<span class="text-durple text-[24px]" slot="heading">Conclusion</span>
+	<span class="text-[#383838]" slot="paragraph">
+		Through their combined efforts, Piaru, Auralis Loopwright, Rhythm 9, and Voxwell Ferma were able to defeat Violia and Bassoonia. Each of them brought something vital to the battle—Piaru’s harmonies, Auralis’s healing loops, Rhythm 9’s tempo manipulation, and Voxwell’s voice control. Together, their music overwhelmed the dissonance of their enemies and restored balance to Pianotopia.
+	<br><br>
+	</span>
+	</Section>
     
 
 
